@@ -1,6 +1,6 @@
 ## Fps Plugins Linux Unbuntu 22.04
 
-El Plugins de la FPS Funciona como Objetivo ver la pantalla del jugador por si esta utilizando Wallhack , modificaciones en el juego ect.
+El Plugins de la FPS Funciona como Objetivo tener una mejor optimizacion del juego, para un mayor fps para pc de bajo recurso.
 Fue Creado Para IW4admin soportable para CoD4.
 
 ## Requirimiento
