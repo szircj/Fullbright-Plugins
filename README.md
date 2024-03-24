@@ -1,4 +1,5 @@
-## Fps Plugins Linux Unbuntu 22.04
+## Fps Plugins Cod4x 
+[![CodeFactor](https://www.codefactor.io/repository/github/szircj/fullbright-plugins/badge)](https://www.codefactor.io/repository/github/szircj/fullbright-plugins)
 
 El Plugins de la FPS Funciona como Objetivo tener una mejor optimizacion del juego, para un mayor fps para pc de bajo recurso.
 Fue Creado Para IW4admin soportable para CoD4.
